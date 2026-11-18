@@ -1,0 +1,17 @@
+co\edu\museo\resource\ArtifactResource.class
+co\edu\museo\resource\CategoryResource.class
+co\edu\museo\resource\TourResource$TourSolicitud.class
+co\edu\museo\resource\TourResource.class
+co\edu\museo\model\TourRoom.class
+co\edu\museo\model\Artist.class
+co\edu\museo\model\Artifact.class
+co\edu\museo\model\Tour.class
+co\edu\museo\model\TourRoomId.class
+co\edu\museo\model\ExhibitionRoom.class
+co\edu\museo\util\Errores.class
+co\edu\museo\resource\ArtistResource.class
+co\edu\museo\resource\RoomResource.class
+co\edu\museo\resource\MuseumResource.class
+co\edu\museo\model\Category.class
+co\edu\museo\model\Museum.class
+co\edu\museo\model\ArtifactExhibition.class
