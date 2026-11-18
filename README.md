@@ -1,4 +1,4 @@
-[readme_md_del_sistema_de_administraci_n_de_museos.md](https://github.com/user-attachments/files/35039156/readme_md_del_sistema_de_administraci_n_de_museos.md)
+
 # Sistema de Administración de Museos
 
 ## Descripción general
